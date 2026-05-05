@@ -1,4 +1,5 @@
 #  Hordus AI: Autonomous Content Intelligence Engine
+#  https://www.hordus.ai/
 
 > ** Legal Notice:** This repository serves as a **technical architecture showcase**.
 > Hordus AI is a proprietary engine built for **GEO (Generative Engine Optimization)**. Due to Intellectual Property constraints, the core source code is private.
